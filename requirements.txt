@@ -7,7 +7,6 @@ streamlit-folium
 shapely
 plotly
 geopy
-requests
 numpy
 seaborn
 scikit-learn
